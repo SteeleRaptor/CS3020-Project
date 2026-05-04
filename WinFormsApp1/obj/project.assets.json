@@ -13,9 +13,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\justi\\Documents\\GitHub\\CS3020-Project\\WinFormsApp1\\WinFormsApp1.csproj",
-      "projectName": "WinFormsApp1",
-      "projectPath": "C:\\Users\\justi\\Documents\\GitHub\\CS3020-Project\\WinFormsApp1\\WinFormsApp1.csproj",
+      "projectUniqueName": "C:\\Users\\justi\\Documents\\GitHub\\CS3020-Project\\WinFormsApp1\\StopwatchApp.csproj",
+      "projectName": "StopwatchApp",
+      "projectPath": "C:\\Users\\justi\\Documents\\GitHub\\CS3020-Project\\WinFormsApp1\\StopwatchApp.csproj",
       "packagesPath": "C:\\Users\\justi\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\justi\\Documents\\GitHub\\CS3020-Project\\WinFormsApp1\\obj\\",
       "projectStyle": "PackageReference",

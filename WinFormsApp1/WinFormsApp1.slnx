@@ -1,3 +1,6 @@
 <Solution>
-  <Project Path="WinFormsApp1.csproj" />
+  <Folder Name="/Solution Items/">
+    <File Path="IStopwatch.cs" />
+  </Folder>
+  <Project Path="StopwatchApp.csproj" />
 </Solution>

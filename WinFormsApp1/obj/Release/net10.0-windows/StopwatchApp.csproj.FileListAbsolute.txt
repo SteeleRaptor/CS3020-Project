@@ -1,0 +1,17 @@
+C:\Users\justi\Documents\GitHub\CS3020-Project\WinFormsApp1\bin\Release\net10.0-windows\StopwatchApp.exe
+C:\Users\justi\Documents\GitHub\CS3020-Project\WinFormsApp1\bin\Release\net10.0-windows\StopwatchApp.deps.json
+C:\Users\justi\Documents\GitHub\CS3020-Project\WinFormsApp1\bin\Release\net10.0-windows\StopwatchApp.runtimeconfig.json
+C:\Users\justi\Documents\GitHub\CS3020-Project\WinFormsApp1\bin\Release\net10.0-windows\StopwatchApp.dll
+C:\Users\justi\Documents\GitHub\CS3020-Project\WinFormsApp1\bin\Release\net10.0-windows\StopwatchApp.pdb
+C:\Users\justi\Documents\GitHub\CS3020-Project\WinFormsApp1\obj\Release\net10.0-windows\WinFormsApp1.StopwatchForm.resources
+C:\Users\justi\Documents\GitHub\CS3020-Project\WinFormsApp1\obj\Release\net10.0-windows\StopwatchApp.csproj.GenerateResource.cache
+C:\Users\justi\Documents\GitHub\CS3020-Project\WinFormsApp1\obj\Release\net10.0-windows\StopwatchApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\justi\Documents\GitHub\CS3020-Project\WinFormsApp1\obj\Release\net10.0-windows\StopwatchApp.AssemblyInfoInputs.cache
+C:\Users\justi\Documents\GitHub\CS3020-Project\WinFormsApp1\obj\Release\net10.0-windows\StopwatchApp.AssemblyInfo.cs
+C:\Users\justi\Documents\GitHub\CS3020-Project\WinFormsApp1\obj\Release\net10.0-windows\StopwatchApp.csproj.CoreCompileInputs.cache
+C:\Users\justi\Documents\GitHub\CS3020-Project\WinFormsApp1\obj\Release\net10.0-windows\StopwatchApp.sourcelink.json
+C:\Users\justi\Documents\GitHub\CS3020-Project\WinFormsApp1\obj\Release\net10.0-windows\StopwatchApp.dll
+C:\Users\justi\Documents\GitHub\CS3020-Project\WinFormsApp1\obj\Release\net10.0-windows\refint\StopwatchApp.dll
+C:\Users\justi\Documents\GitHub\CS3020-Project\WinFormsApp1\obj\Release\net10.0-windows\StopwatchApp.pdb
+C:\Users\justi\Documents\GitHub\CS3020-Project\WinFormsApp1\obj\Release\net10.0-windows\StopwatchApp.genruntimeconfig.cache
+C:\Users\justi\Documents\GitHub\CS3020-Project\WinFormsApp1\obj\Release\net10.0-windows\ref\StopwatchApp.dll
